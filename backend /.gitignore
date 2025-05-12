@@ -1,0 +1,27 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+ENV/
+
+# Package distribution
+*.egg-info/
+dist/
+build/
+
+# Flask / App-specific
+instance/
+.webassets-cache
+
+# Logs and system files
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
