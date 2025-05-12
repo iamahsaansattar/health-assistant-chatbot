@@ -16,7 +16,7 @@ This project is a Flutter application that communicates with a Flask-based backe
 
 3. Run the Flask API:
     ```bash
-    python app.py
+    python llm_flask_api.py
     ```
 
 ## Frontend Setup (Flutter App)
